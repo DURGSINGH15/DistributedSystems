@@ -1,0 +1,6 @@
+exp7_TaskManager
+*.class
+*.log
+.idea/
+build/
+out/

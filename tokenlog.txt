@@ -1,0 +1,16 @@
+Process 2 requesting critical section
+Process 0 requesting critical section
+Process 0 entering critical section
+Process 2 requesting critical section
+Process 0 exiting critical section
+Token passed to process 1
+Process 1 requesting critical section
+Process 1 entering critical section
+Process 1 exiting critical section
+Token passed to process 2
+Process 0 requesting critical section
+Process 1 requesting critical section
+
+Performance Metrics:
+Messages Sent: 10
+Average Response Time: 0.0337 seconds
